@@ -14,5 +14,10 @@ Technologies Use
   
   How to run the server in the local
   
-  
+  1. clone the repo to your local
+  2. cd into the directory
+  3. yarn install or npm install
+  4. yarn start or npm start
+  5. output can be seen in http://localhost:4000/
+  6. for testing can run yarn test
   
